@@ -1,0 +1,28 @@
+body {
+  background-color: #faf0e6;
+}
+img {
+  border-style: solid;
+  border-radius: 30px;
+  width: 300px;
+  height: 400px;
+}
+iframe {
+  border-style: solid;
+  border-radius: 30px;
+}
+h1 {
+  text-align: center;
+  border-style: solid;
+  border-radius: 30px;
+  font-family: fantasy;
+}
+h2 {
+  text-align: center;
+  border-style: solid;
+  border-radius: 30px;
+}
+#exclure {
+  width: 155px; /* Ne pas redimensionner */
+  height: 115px;
+}
